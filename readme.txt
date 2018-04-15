@@ -10,3 +10,4 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 Creating a new Branch is quick.
 Add by me.
+Add by other.
